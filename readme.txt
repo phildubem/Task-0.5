@@ -2,4 +2,4 @@ Name: Anusionwu Philip Chidubem
 
 slack: phildubem
 
-Email: phildubem@gmail
+Email: phildubem@gmail.com
